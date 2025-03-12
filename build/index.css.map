@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":";;;AAAA;EACI;EACA;AACJ,C","sources":["webpack://example/./src/index.scss"],"sourcesContent":[".site{\r\n    background: rgb(0, 255, 34);\r\n    color: red;\r\n}"],"names":[],"sourceRoot":""}
